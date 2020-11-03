@@ -7,6 +7,6 @@ public class Rrn {
 	}
 	
 	public void rrnException(String rrn) {
-		if(rrn.length() == 13)
+		if(rrn.length() == 13);
 	}
 }
